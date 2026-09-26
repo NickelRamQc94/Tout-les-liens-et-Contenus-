@@ -1,3 +1,15 @@
+# Tout-les-liens-et-Contenus-
+
+## Roi Phénonanimal Parallèlodoxe AlphaDeal OoSK
+
+- YouTube — https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+- Suno — https://suno.com/@roi_phenonanimal_parallelodoxe
+- Instagram — https://www.instagram.com/nickel_parallelodoxe/
+- Facebook — https://www.facebook.com/share/1EEJfXZEGX/?mibextid=wwXIfr
+- Skill dédiée — https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk
+- Bibliothèque skills — https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut
+
+
 [# Tout-les-liens-et-Contenus-
 https://www.youtube.com/@nickelios?si=pxuSGwfVr73qVu7Z
 
