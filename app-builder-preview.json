@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ArachNiD S³",
+      "hasCanvas": false,
+      "bodyTextLen": 1412,
+      "bodyTextHash": "b0ad23f992c5e74683d2f0f6fd489691476853e539b5635e8d198966221fbacc",
+      "bodyTextPrefix": "ArachNiD S³ Combinateur Ensembles Matériaux Produits Nievlar ARA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Loading http://127.0.0.1:8080/",
+      "hasCanvas": false,
+      "bodyTextLen": 1393,
+      "bodyTextHash": "10df27338c54adb4994e4f6c3114cae63991da0a52517d2629f28ac3eda9956e",
+      "bodyTextPrefix": "ArachNiD S³ CombinateurEnsemblesMatériauxProduitsNievlar ArachNi",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
